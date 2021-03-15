@@ -1,4 +1,4 @@
-This project will let the user: 
+<h1>This project will let the user:</h1>
 
 1. Add a new item to a list of items.
 2. Cross out an item from the list of items.
